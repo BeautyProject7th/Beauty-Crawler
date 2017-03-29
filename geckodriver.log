@@ -1,0 +1,496 @@
+1487137996289	geckodriver	INFO	Listening on 127.0.0.1:50630
+1487137997378	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.1rGjz4ujD8jU
+1487137997379	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487137997392	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50639
+1487137998057	Marionette	INFO	Listening on port 50639
+1487138061836	geckodriver	INFO	Listening on 127.0.0.1:50774
+1487138062912	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.1Sa7pbL0i3HX
+1487138062913	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487138062916	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50783
+1487138063496	Marionette	INFO	Listening on port 50783
+1487138159694	geckodriver	INFO	Listening on 127.0.0.1:50930
+1487138160776	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.tmBrS8hWG3dM
+1487138160777	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487138160783	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50939
+1487138161504	Marionette	INFO	Listening on port 50939
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487138215754	geckodriver	INFO	Listening on 127.0.0.1:50980
+1487138216852	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.v1H2bZWwsVd2
+1487138216853	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487138216856	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50989
+1487138217597	Marionette	INFO	Listening on port 50989
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487138399575	geckodriver	INFO	Listening on 127.0.0.1:51136
+1487138400654	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.AKQu4XzpG2Vd
+1487138400655	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487138400658	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51145
+1487138401340	Marionette	INFO	Listening on port 51145
+1487140017670	geckodriver	INFO	Listening on 127.0.0.1:51418
+1487140018763	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.cy9l98Q0mEba
+1487140018764	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487140018766	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51428
+1487140019446	Marionette	INFO	Listening on port 51428
+1487140056461	geckodriver	INFO	Listening on 127.0.0.1:51563
+1487140057545	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.0lqPlIVO4S4r
+1487140057546	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487140057548	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51572
+1487140058108	Marionette	INFO	Listening on port 51572
+1487140124877	geckodriver	INFO	Listening on 127.0.0.1:51715
+1487140125970	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.8aAw3LG9Xi4O
+1487140125971	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487140125973	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51724
+1487140126666	Marionette	INFO	Listening on port 51724
+1487140172763	geckodriver	INFO	Listening on 127.0.0.1:51859
+1487140173894	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.Mq9cca459dDS
+1487140173895	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487140173897	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51868
+1487140174841	Marionette	INFO	Listening on port 51868
+JavaScript error: chrome://marionette/content/listener.js, line 1092: TypeError: can't access dead object
+1487140185619	geckodriver	INFO	Listening on 127.0.0.1:51998
+1487140186699	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.wZU8Uo3Tw0TR
+1487140186700	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487140186702	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52007
+1487140187309	Marionette	INFO	Listening on port 52007
+1487140257341	geckodriver	INFO	Listening on 127.0.0.1:52149
+1487140258423	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.tL6VaTlU169G
+1487140258424	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487140258426	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52158
+1487140259102	Marionette	INFO	Listening on port 52158
+1487140501372	geckodriver	INFO	Listening on 127.0.0.1:52365
+1487140502466	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.MOYQH1QvCABb
+1487140502467	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487140502469	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52374
+1487140503206	Marionette	INFO	Listening on port 52374
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487140737673	geckodriver	INFO	Listening on 127.0.0.1:52583
+1487140738794	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.Xe5bwQ5pNHwh
+1487140738795	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487140738797	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52592
+1487140739614	Marionette	INFO	Listening on port 52592
+1487140797476	geckodriver	INFO	Listening on 127.0.0.1:52758
+1487140798584	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.px7GiSiYogdW
+1487140798586	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487140798591	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52768
+1487140799331	Marionette	INFO	Listening on port 52768
+1487140857371	geckodriver	INFO	Listening on 127.0.0.1:52916
+1487140858468	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.RCmkuhhJqdiu
+1487140858469	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487140858475	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52925
+1487140859491	Marionette	INFO	Listening on port 52925
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487141130259	geckodriver	INFO	Listening on 127.0.0.1:53010
+1487141131348	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.gev0c94Dt0EO
+1487141131349	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487141131351	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53019
+1487141132422	Marionette	INFO	Listening on port 53019
+1487141151409	geckodriver	INFO	Listening on 127.0.0.1:53051
+1487141152497	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.7MQYsuqz7BEM
+1487141152498	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487141152500	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53060
+1487141153139	Marionette	INFO	Listening on port 53060
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487141323448	geckodriver	INFO	Listening on 127.0.0.1:53137
+1487141323556	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.BEI3ppnVYLvV
+1487141323557	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487141323561	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53144
+1487141324474	Marionette	INFO	Listening on port 53144
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487141695480	geckodriver	INFO	Listening on 127.0.0.1:53238
+1487141696564	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.N3X3VqTdgue3
+1487141696565	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487141696568	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53249
+1487141697141	Marionette	INFO	Listening on port 53249
+1487141744816	geckodriver	INFO	Listening on 127.0.0.1:53386
+1487141745942	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.WfFshDY2wgu4
+1487141745944	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487141745947	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53395
+1487141747024	Marionette	INFO	Listening on port 53395
+1487141753673	geckodriver	INFO	Listening on 127.0.0.1:53451
+1487141754753	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.JR3uPpy9KnhA
+1487141754754	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487141754757	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53457
+1487141755328	Marionette	INFO	Listening on port 53457
+1487141793244	geckodriver	INFO	Listening on 127.0.0.1:53601
+1487141794345	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.dMHpAzGIXG9Z
+1487141794347	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487141794369	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53610
+1487141795439	Marionette	INFO	Listening on port 53610
+1487141825420	geckodriver	INFO	Listening on 127.0.0.1:53776
+1487141826579	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.E1ORU8fle7kg
+1487141826580	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487141826583	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53785
+1487141827242	Marionette	INFO	Listening on port 53785
+1487141908543	geckodriver	INFO	Listening on 127.0.0.1:53961
+1487141909626	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.F7ppF6fShlJ8
+1487141909627	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487141909629	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53970
+1487141910292	Marionette	INFO	Listening on port 53970
+1487141966263	geckodriver	INFO	Listening on 127.0.0.1:54106
+1487141967407	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.1SjGVfgx2Du4
+1487141967408	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487141967414	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54112
+1487141968190	Marionette	INFO	Listening on port 54112
+1487141997254	geckodriver	INFO	Listening on 127.0.0.1:54256
+1487141998329	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.GelpruBdFsda
+1487141998330	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487141998333	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54265
+1487141998923	Marionette	INFO	Listening on port 54265
+JavaScript error: chrome://marionette/content/listener.js, line 1092: TypeError: can't access dead object
+1487142005954	geckodriver	INFO	Listening on 127.0.0.1:54394
+1487142007047	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.4wCQjAJEyLh1
+1487142007048	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487142007052	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54404
+1487142008020	Marionette	INFO	Listening on port 54404
+1487142012267	geckodriver	INFO	Listening on 127.0.0.1:54429
+1487142013351	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.k2d2VAGeuT1M
+1487142013352	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487142013354	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54438
+1487142013921	Marionette	INFO	Listening on port 54438
+1487142121858	geckodriver	INFO	Listening on 127.0.0.1:54592
+1487142122939	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.3ZLva72FZPgl
+1487142122940	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487142122943	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54601
+1487142123517	Marionette	INFO	Listening on port 54601
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487142157843	geckodriver	INFO	Listening on 127.0.0.1:54640
+1487142158926	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.sprXBvKlbCwd
+1487142158927	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487142158930	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54649
+1487142159520	Marionette	INFO	Listening on port 54649
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487142264883	geckodriver	INFO	Listening on 127.0.0.1:54692
+1487142265967	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.xg39ADNPIYfO
+1487142265968	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487142265970	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54698
+1487142266559	Marionette	INFO	Listening on port 54698
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487142481563	geckodriver	INFO	Listening on 127.0.0.1:54806
+1487142482666	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.alCobpJAeRXz
+1487142482667	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487142482670	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54815
+1487142483257	Marionette	INFO	Listening on port 54815
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487142671157	geckodriver	INFO	Listening on 127.0.0.1:54914
+1487142672241	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.Wzd6WO1K21u3
+1487142672242	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487142672246	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54923
+1487142672904	Marionette	INFO	Listening on port 54923
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487143028613	geckodriver	INFO	Listening on 127.0.0.1:55043
+1487143029755	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.GG8hBXIJioWK
+1487143029756	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487143029760	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55049
+1487143030457	Marionette	INFO	Listening on port 55049
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487143679204	geckodriver	INFO	Listening on 127.0.0.1:55327
+1487143680306	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.KDMNgcCXXGJN
+1487143680307	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487143680310	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55333
+1487143681206	Marionette	INFO	Listening on port 55333
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487144030412	geckodriver	INFO	Listening on 127.0.0.1:55434
+1487144031591	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.7n6uAll4Ntsi
+1487144031592	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487144031596	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55443
+1487144032633	Marionette	INFO	Listening on port 55443
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487144175462	geckodriver	INFO	Listening on 127.0.0.1:55509
+1487144176613	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.daBbdLOsoaEm
+1487144176614	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487144176618	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55518
+1487144178614	Marionette	INFO	Listening on port 55518
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487144207480	geckodriver	INFO	Listening on 127.0.0.1:55583
+1487144207578	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.aqMZaGwOmn9t
+1487144207579	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487144207582	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55590
+1487144208474	Marionette	INFO	Listening on port 55590
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487144225629	geckodriver	INFO	Listening on 127.0.0.1:55633
+1487144226712	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.oC7AifPriEzN
+1487144226713	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487144226715	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55639
+1487144227334	Marionette	INFO	Listening on port 55639
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487144270980	geckodriver	INFO	Listening on 127.0.0.1:55684
+1487144272077	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.xvacM3DzTxuj
+1487144272079	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487144272082	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55690
+1487144273125	Marionette	INFO	Listening on port 55690
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487144727999	geckodriver	INFO	Listening on 127.0.0.1:55795
+1487144729252	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.sg3xWfQ0h3Si
+1487144729254	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487144729259	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55801
+1487144729904	Marionette	INFO	Listening on port 55801
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487144757321	geckodriver	INFO	Listening on 127.0.0.1:55841
+1487144758349	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.3xrLEKWlx8bH
+1487144758350	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487144758354	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55847
+1487144758948	Marionette	INFO	Listening on port 55847
+1487144813761	geckodriver	INFO	Listening on 127.0.0.1:55988
+1487144814783	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.A4YXDr3ReBq0
+1487144814785	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487144814788	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55994
+1487144815413	Marionette	INFO	Listening on port 55994
+1487144947104	geckodriver	INFO	Listening on 127.0.0.1:56167
+1487144948158	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.ChIZAboDecNk
+1487144948160	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487144948164	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56173
+1487144948973	Marionette	INFO	Listening on port 56173
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487144983127	geckodriver	INFO	Listening on 127.0.0.1:56212
+1487144984186	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.d9bwazp9Qnua
+1487144984188	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487144984191	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56218
+1487144985195	Marionette	INFO	Listening on port 56218
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487144991541	geckodriver	INFO	Listening on 127.0.0.1:56262
+1487144992557	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.JpWfEXXWH1I0
+1487144992558	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487144992561	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56268
+1487144993678	Marionette	INFO	Listening on port 56268
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487145059190	geckodriver	INFO	Listening on 127.0.0.1:56320
+1487145060234	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.P2c2ghPKNUWi
+1487145060236	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487145060239	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56326
+1487145061254	Marionette	INFO	Listening on port 56326
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487145089567	geckodriver	INFO	Listening on 127.0.0.1:56371
+1487145090694	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.soemSjM628X5
+1487145090697	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487145090707	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56377
+1487145091462	Marionette	INFO	Listening on port 56377
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1487145141717	geckodriver	INFO	Listening on 127.0.0.1:56419
+1487145142781	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.48AexqYLoCVU
+1487145142783	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487145142787	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56425
+1487145143409	Marionette	INFO	Listening on port 56425
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/14315351512250298214/index.html?csp=er3#t=15735651621823884387&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 12: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/1735469137940355039/index.html?csp=er3#t=7245977681514728811&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 12: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487145428726	geckodriver	INFO	Listening on 127.0.0.1:56637
+1487145429762	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.MVWYVY9yJFRr
+1487145429764	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487145429767	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56643
+1487145430341	Marionette	INFO	Listening on port 56643
+1487145490042	geckodriver	INFO	Listening on 127.0.0.1:56711
+1487145491079	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.R94xKLWmWFMD
+1487145491081	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487145491084	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56717
+1487145491747	Marionette	INFO	Listening on port 56717
+1487145520414	geckodriver	INFO	Listening on 127.0.0.1:56791
+1487145521452	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.3bONPCobvym6
+1487145521453	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487145521456	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56797
+1487145522081	Marionette	INFO	Listening on port 56797
+1487145629120	geckodriver	INFO	Listening on 127.0.0.1:56885
+1487145630150	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.arIVi8oEemgO
+1487145630151	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487145630154	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56891
+1487145630714	Marionette	INFO	Listening on port 56891
+1487145667091	geckodriver	INFO	Listening on 127.0.0.1:57023
+1487145668123	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.yfeLB4kq92OS
+1487145668125	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487145668128	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57029
+1487145668712	Marionette	INFO	Listening on port 57029
+1487145706839	geckodriver	INFO	Listening on 127.0.0.1:57183
+1487145707851	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.49d5t6xJLj3B
+1487145707852	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487145707855	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57189
+1487145708450	Marionette	INFO	Listening on port 57189
+1487145774175	geckodriver	INFO	Listening on 127.0.0.1:57341
+1487145775206	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.P85fXf9LN70X
+1487145775208	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487145775211	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57347
+1487145776101	Marionette	INFO	Listening on port 57347
+1487145858647	geckodriver	INFO	Listening on 127.0.0.1:57492
+1487145859690	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.aCA3chHnQVvS
+1487145859692	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487145859694	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57498
+1487145860290	Marionette	INFO	Listening on port 57498
+1487145922154	geckodriver	INFO	Listening on 127.0.0.1:57633
+1487145923179	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.hICSjxtMpw6l
+1487145923181	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487145923184	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57639
+1487145923808	Marionette	INFO	Listening on port 57639
+1487145971245	geckodriver	INFO	Listening on 127.0.0.1:57794
+1487145972335	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.vaFM4ImRygKq
+1487145972337	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487145972340	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57800
+1487145973235	Marionette	INFO	Listening on port 57800
+1487146008470	geckodriver	INFO	Listening on 127.0.0.1:57950
+1487146009497	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.o7yxq06Mn2wN
+1487146009499	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487146009502	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57956
+1487146010088	Marionette	INFO	Listening on port 57956
+1487146125557	geckodriver	INFO	Listening on 127.0.0.1:58096
+1487146126589	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.Pr5Z9LeSnbbx
+1487146126591	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487146126594	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58102
+1487146127411	Marionette	INFO	Listening on port 58102
+1487146148763	geckodriver	INFO	Listening on 127.0.0.1:58238
+1487146149800	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.jPPG4xreT4TC
+1487146149801	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487146149804	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58244
+1487146150403	Marionette	INFO	Listening on port 58244
+1487146773245	geckodriver	INFO	Listening on 127.0.0.1:58403
+1487146774273	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.rkcj2ipfrqPl
+1487146774275	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487146774278	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58409
+1487146775055	Marionette	INFO	Listening on port 58409
+1487146807219	geckodriver	INFO	Listening on 127.0.0.1:58546
+1487146808307	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.OAfn2hSHDOen
+1487146808310	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487146808314	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58552
+1487146809041	Marionette	INFO	Listening on port 58552
+1487146844716	geckodriver	INFO	Listening on 127.0.0.1:58704
+1487146845753	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.s2RBkMfEaRiU
+1487146845754	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487146845757	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58710
+1487146846354	Marionette	INFO	Listening on port 58710
+1487146869920	geckodriver	INFO	Listening on 127.0.0.1:58871
+1487146870952	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.wAOPsVtCzN2k
+1487146870954	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487146870957	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58877
+1487146871639	Marionette	INFO	Listening on port 58877
+1487146903145	geckodriver	INFO	Listening on 127.0.0.1:59043
+1487146904175	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.RU8zfvZjW85V
+1487146904176	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487146904180	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59049
+1487146904734	Marionette	INFO	Listening on port 59049
+1487147521826	geckodriver	INFO	Listening on 127.0.0.1:60417
+1487147522869	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.KAaXUSfy8zCi
+1487147522871	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487147522873	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60423
+1487147523482	Marionette	INFO	Listening on port 60423
+1487147945359	geckodriver	INFO	Listening on 127.0.0.1:60549
+1487147946380	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.ztPnx4ZhpkaM
+1487147946382	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487147946384	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60555
+1487147947056	Marionette	INFO	Listening on port 60555
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/shared/vendor/react-redux.js, line 409: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+console.error: 
+  navigated; resolution of _defaultNode aborted
+console.error: 
+  navigated; resolution of _defaultNode aborted
+console.error: 
+  navigated; resolution of _defaultNode aborted
+1487148117398	geckodriver	INFO	Listening on 127.0.0.1:60723
+1487148118421	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.GBhn0BftAI4j
+1487148118423	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487148118425	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60729
+1487148119031	Marionette	INFO	Listening on port 60729
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+1487148295161	geckodriver	INFO	Listening on 127.0.0.1:60828
+1487148296189	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.i2C9ookB44iO
+1487148296191	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487148296197	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60834
+1487148296767	Marionette	INFO	Listening on port 60834
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+1487148560198	geckodriver	INFO	Listening on 127.0.0.1:60992
+1487148561234	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.KZleGmoRvLVm
+1487148561236	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487148561240	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60998
+1487148561835	Marionette	INFO	Listening on port 60998
+1487148622817	geckodriver	INFO	Listening on 127.0.0.1:61121
+1487148623831	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.xrq9mkjBVdbH
+1487148623833	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487148623835	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61129
+1487148624449	Marionette	INFO	Listening on port 61129
+1487148674631	geckodriver	INFO	Listening on 127.0.0.1:61250
+1487148675658	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.kXMG9ygeGFGn
+1487148675659	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487148675662	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61256
+1487148676244	Marionette	INFO	Listening on port 61256
+1487148711060	geckodriver	INFO	Listening on 127.0.0.1:61398
+1487148712093	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.pHh5vyCl7tgn
+1487148712095	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487148712098	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61404
+1487148712677	Marionette	INFO	Listening on port 61404
+1487148734096	geckodriver	INFO	Listening on 127.0.0.1:61529
+1487148735132	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.It1DS50WrdsA
+1487148735134	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487148735137	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61535
+1487148735703	Marionette	INFO	Listening on port 61535
+1487148776731	geckodriver	INFO	Listening on 127.0.0.1:61704
+1487148777747	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.cfSURNNs9l9B
+1487148777748	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487148777752	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61710
+1487148778432	Marionette	INFO	Listening on port 61710
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+1487148892722	geckodriver	INFO	Listening on 127.0.0.1:61869
+1487148893760	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.YKa6D833aPGK
+1487148893762	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487148893765	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61875
+1487148894329	Marionette	INFO	Listening on port 61875
+1487149048806	geckodriver	INFO	Listening on 127.0.0.1:62132
+1487149049838	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.tTpnvIvyvOvf
+1487149049840	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487149049843	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62138
+1487149050418	Marionette	INFO	Listening on port 62138
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+1487150679114	geckodriver	INFO	Listening on 127.0.0.1:62597
+1487150680193	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.G62n17rcfvyR
+1487150680197	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487150680200	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62603
+1487150680836	Marionette	INFO	Listening on port 62603
+1487151384697	geckodriver	INFO	Listening on 127.0.0.1:62844
+1487151385728	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.pdpN7HYJpVwq
+1487151385730	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487151385733	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62850
+1487151386322	Marionette	INFO	Listening on port 62850
+JavaScript error: chrome://marionette/content/listener.js, line 1092: TypeError: can't access dead object
+1487151429494	geckodriver	INFO	Listening on 127.0.0.1:62921
+1487151430533	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.90qSYFEPibDX
+1487151430535	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487151430537	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62927
+1487151431296	Marionette	INFO	Listening on port 62927
+1487151476021	geckodriver	INFO	Listening on 127.0.0.1:63004
+1487151477054	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.wZMb1qbIUTCO
+1487151477056	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487151477059	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63010
+1487151477620	Marionette	INFO	Listening on port 63010
+1487152007024	geckodriver	INFO	Listening on 127.0.0.1:63441
+1487152008060	mozprofile::profile	INFO	Using profile path /var/folders/cp/tsfm48bx6b7b9454t1xydrsr0000gn/T/rust_mozprofile.hJJNLt6Td4NA
+1487152008062	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487152008065	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63447
+1487152008741	Marionette	INFO	Listening on port 63447
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 1367: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Could not convert Native argument arg 0 [nsIEventListenerChange.target]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js, line 1954: TypeError: this.node.tagName is null
+JavaScript warning: https://www.data.go.kr/dataset/15020624/openapi.do, line 1672: unreachable code after return statement
+JavaScript warning: https://www.data.go.kr/assets/libs/vis/vis.js, line 29095: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://www.data.go.kr/innorix/common/innorix.js, line 271: unreachable code after return statement
+JavaScript warning: https://www.data.go.kr/assets/js/com/common/jcfUtils.js, line 136: unreachable code after return statement
+JavaScript warning: https://www.data.go.kr/assets/js/com/common/jcfUtils.js, line 253: unreachable code after return statement
+JavaScript warning: https://www.data.go.kr/assets/libs/jcf/jcf-popup.js, line 228: unreachable code after return statement
+JavaScript warning: https://www.data.go.kr/assets/libs/kr/co/softbowl/SBGrid.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.data.go.kr/assets/js/com/common/jcfUtils.js, line 136: unreachable code after return statement
+JavaScript error: https://www.data.go.kr/assets/libs/angular/angular1.0.7.js, line 7981: Error: 10 $digest() iterations reached. Aborting!
+Watchers fired in the last 5 iterations: [["fn: $locationWatch; newVal: 62; oldVal: 61"],["fn: $locationWatch; newVal: 74; oldVal: 73"],["fn: $locationWatch; newVal: 86; oldVal: 85"],["fn: $locationWatch; newVal: 98; oldVal: 97"],["fn: $locationWatch; newVal: 110; oldVal: 109"]]
+JavaScript warning: https://www.data.go.kr/assets/libs/vis/vis.js, line 29095: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://www.data.go.kr/innorix/common/innorix.js, line 271: unreachable code after return statement
+JavaScript warning: https://www.data.go.kr/assets/libs/kr/co/softbowl/SBGrid.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.data.go.kr/assets/js/com/common/jcfUtils.js, line 136: unreachable code after return statement
+JavaScript warning: https://www.data.go.kr/assets/js/com/common/jcfUtils.js, line 253: unreachable code after return statement
+JavaScript warning: https://www.data.go.kr/assets/libs/jcf/jcf-popup.js, line 228: unreachable code after return statement
+JavaScript warning: https://www.data.go.kr/assets/js/com/common/jcfUtils.js, line 136: unreachable code after return statement
+JavaScript warning: https://www.data.go.kr/assets/js/com/common/jcfUtils.js, line 253: unreachable code after return statement
+JavaScript warning: https://www.data.go.kr/assets/js/com/common/jcfUtils.js, line 253: unreachable code after return statement
+console.error: 
+  navigated; resolution of _defaultNode aborted
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1734:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1671:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1734, column: 1
+console.error: 
+  Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1734:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1671:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1734, column: 1
