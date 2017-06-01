@@ -1,0 +1,147 @@
+title,div,cate,cate_link,cate_flag,sub_cate,sub_id
+SKINCARE,유형별,클렌징,goods/goodsList.do?catCd=4000000000&flag=4000000001&gubun=B,4000000001,클렌징 폼,4000000002
+SKINCARE,유형별,클렌징,goods/goodsList.do?catCd=4000000000&flag=4000000001&gubun=B,4000000001,클렌징 오일,4000000003
+SKINCARE,유형별,클렌징,goods/goodsList.do?catCd=4000000000&flag=4000000001&gubun=B,4000000001,클렌징 로션/크림,4000000004
+SKINCARE,유형별,클렌징,goods/goodsList.do?catCd=4000000000&flag=4000000001&gubun=B,4000000001,클렌징 워터,4000000005
+SKINCARE,유형별,클렌징,goods/goodsList.do?catCd=4000000000&flag=4000000001&gubun=B,4000000001,클렌징 티슈,4000000006
+SKINCARE,유형별,클렌징,goods/goodsList.do?catCd=4000000000&flag=4000000001&gubun=B,4000000001,메이크업 리무버,4000000007
+SKINCARE,유형별,클렌징,goods/goodsList.do?catCd=4000000000&flag=4000000001&gubun=B,4000000001,비누,4000000008
+SKINCARE,유형별,팩/마스크,goods/goodsList.do?catCd=4000000000&flag=4000000009&gubun=B,4000000009,워시오프 팩,4000000010
+SKINCARE,유형별,팩/마스크,goods/goodsList.do?catCd=4000000000&flag=4000000009&gubun=B,4000000009,마스크 시트,4000000011
+SKINCARE,유형별,팩/마스크,goods/goodsList.do?catCd=4000000000&flag=4000000009&gubun=B,4000000009,슬리핑 팩,4000000012
+SKINCARE,유형별,팩/마스크,goods/goodsList.do?catCd=4000000000&flag=4000000009&gubun=B,4000000009,마사지,4000000013
+SKINCARE,유형별,팩/마스크,goods/goodsList.do?catCd=4000000000&flag=4000000009&gubun=B,4000000009,부분케어,4000000014
+SKINCARE,유형별,토너,goods/goodsList.do?catCd=4000000000&flag=4000000015&gubun=B,4000000015,토너,4000000220
+SKINCARE,유형별,아이케어,goods/goodsList.do?catCd=4000000000&flag=4000000016&gubun=B,4000000016,아이케어,4000000221
+SKINCARE,유형별,에센스/세럼,goods/goodsList.do?catCd=4000000000&flag=4000000017&gubun=B,4000000017,에센스/세럼,4000000018
+SKINCARE,유형별,에센스/세럼,goods/goodsList.do?catCd=4000000000&flag=4000000017&gubun=B,4000000017,앰플,4000000019
+SKINCARE,유형별,에센스/세럼,goods/goodsList.do?catCd=4000000000&flag=4000000017&gubun=B,4000000017,스팟케어,4000000020
+SKINCARE,유형별,오일/밤,goods/goodsList.do?catCd=4000000000&flag=4000000021&gubun=B,4000000021,오일,4000000222
+SKINCARE,유형별,오일/밤,goods/goodsList.do?catCd=4000000000&flag=4000000021&gubun=B,4000000021,밤,4000000223
+SKINCARE,유형별,에멀전,goods/goodsList.do?catCd=4000000000&flag=4000000022&gubun=B,4000000022,에멀전,4000000023
+SKINCARE,유형별,에멀전,goods/goodsList.do?catCd=4000000000&flag=4000000022&gubun=B,4000000022,플루이드,4000000024
+SKINCARE,유형별,크림,goods/goodsList.do?catCd=4000000000&flag=4000000025&gubun=B,4000000025,크림,4000000224
+SKINCARE,유형별,선케어,goods/goodsList.do?catCd=4000000000&flag=4000000026&gubun=B,4000000026,선케어,4000000225
+SKINCARE,유형별,미스트,goods/goodsList.do?catCd=4000000000&flag=4000000226&gubun=B,4000000226,미스트,4000000227
+SKINCARE,유형별,세트상품,goods/goodsList.do?catCd=4000000000&flag=4000000300&gubun=B,4000000300,세트상품,4000000301
+SKINCARE,피부고민별,각질,goods/goodsList.do?catCd=4000000000&flag=4000000246&gubun=F,4000000246,0,0
+SKINCARE,피부고민별,기미/잡티/칙칙한안색,goods/goodsList.do?catCd=4000000000&flag=4000000247&gubun=F,4000000247,0,0
+SKINCARE,피부고민별,다크서클,goods/goodsList.do?catCd=4000000000&flag=4000000248&gubun=F,4000000248,0,0
+SKINCARE,피부고민별,모공/피지,goods/goodsList.do?catCd=4000000000&flag=4000000249&gubun=F,4000000249,0,0
+SKINCARE,피부고민별,민감,goods/goodsList.do?catCd=4000000000&flag=4000000250&gubun=F,4000000250,0,0
+SKINCARE,피부고민별,보습,goods/goodsList.do?catCd=4000000000&flag=4000000251&gubun=F,4000000251,0,0
+SKINCARE,피부고민별,수분/진정,goods/goodsList.do?catCd=4000000000&flag=4000000252&gubun=F,4000000252,0,0
+SKINCARE,피부고민별,탄력/피부노화,goods/goodsList.do?catCd=4000000000&flag=4000000253&gubun=F,4000000253,0,0
+SKINCARE,피부고민별,트러블/여드름,goods/goodsList.do?catCd=4000000000&flag=4000000254&gubun=F,4000000254,0,0
+SKINCARE,피부고민별,피부결,goods/goodsList.do?catCd=4000000000&flag=4000000255&gubun=F,4000000255,0,0
+SKINCARE,푸드라인업,골드 캐비어,goods/foodLineUp.do?catCd=4000000083,4000000255,0,0
+SKINCARE,푸드라인업,로열허니,goods/foodLineUp.do?catCd=4000000099,4000000255,0,0
+SKINCARE,푸드라인업,미라클 푸드,goods/foodLineUp.do?catCd=4000000110,4000000255,0,0
+SKINCARE,푸드라인업,블랙슈가,goods/foodLineUp.do?catCd=4000000122,4000000255,0,0
+SKINCARE,푸드라인업,비터 그린,goods/foodLineUp.do?catCd=4000001086,4000000255,0,0
+SKINCARE,푸드라인업,상추오이,goods/foodLineUp.do?catCd=4000000127,4000000255,0,0
+SKINCARE,푸드라인업,아보카도,goods/foodLineUp.do?catCd=4000000143,4000000255,0,0
+SKINCARE,푸드라인업,알로에,goods/foodLineUp.do?catCd=4000000145,4000000255,0,0
+SKINCARE,푸드라인업,에그,goods/foodLineUp.do?catCd=4000000149,4000000255,0,0
+SKINCARE,푸드라인업,유자,goods/foodLineUp.do?catCd=4000000156,4000000255,0,0
+SKINCARE,푸드라인업,진생 열매,goods/foodLineUp.do?catCd=4000001411,4000000255,0,0
+SKINCARE,푸드라인업,토마토,goods/foodLineUp.do?catCd=4000000176,4000000255,0,0
+SKINCARE,푸드라인업,풋사과,goods/foodLineUp.do?catCd=4000000191,4000000255,0,0
+SKINCARE,푸드라인업,흑석류,goods/foodLineUp.do?catCd=4000000202,4000000255,0,0
+MAKE UP,유형별,베이스 메이크업,goods/goodsList.do?catCd=4000000027&flag=4000000028,4000000028,메이크업 베이스,4000000029
+MAKE UP,유형별,베이스 메이크업,goods/goodsList.do?catCd=4000000027&flag=4000000028,4000000028,BB/CC크림,4000000030
+MAKE UP,유형별,베이스 메이크업,goods/goodsList.do?catCd=4000000027&flag=4000000028,4000000028,파운데이션,4000000031
+MAKE UP,유형별,베이스 메이크업,goods/goodsList.do?catCd=4000000027&flag=4000000028,4000000028,팩트/파우더,4000000032
+MAKE UP,유형별,베이스 메이크업,goods/goodsList.do?catCd=4000000027&flag=4000000028,4000000028,컨실러,4000000033
+MAKE UP,유형별,베이스 메이크업,goods/goodsList.do?catCd=4000000027&flag=4000000028,4000000028,픽서,4000000034
+MAKE UP,유형별,컬러 메이크업,goods/goodsList.do?catCd=4000000027&flag=4000000035,4000000035,블러셔/하이라이트/쉐이딩,4000000036
+MAKE UP,유형별,컬러 메이크업,goods/goodsList.do?catCd=4000000027&flag=4000000035,4000000035,아이브로우,4000000037
+MAKE UP,유형별,컬러 메이크업,goods/goodsList.do?catCd=4000000027&flag=4000000035,4000000035,아이섀도우,4000000038
+MAKE UP,유형별,컬러 메이크업,goods/goodsList.do?catCd=4000000027&flag=4000000035,4000000035,아이라이너,4000000039
+MAKE UP,유형별,컬러 메이크업,goods/goodsList.do?catCd=4000000027&flag=4000000035,4000000035,마스카라,4000000040
+MAKE UP,유형별,컬러 메이크업,goods/goodsList.do?catCd=4000000027&flag=4000000035,4000000035,립스틱,4000000041
+MAKE UP,유형별,컬러 메이크업,goods/goodsList.do?catCd=4000000027&flag=4000000035,4000000035,립글로스,4000000042
+MAKE UP,유형별,컬러 메이크업,goods/goodsList.do?catCd=4000000027&flag=4000000035,4000000035,립밤,4000000043
+MAKE UP,유형별,컬러 메이크업,goods/goodsList.do?catCd=4000000027&flag=4000000035,4000000035,틴트,4000000044
+MAKE UP,유형별,네일,goods/goodsList.do?catCd=4000000027&flag=4000000045,4000000045,네일컬러,4000000046
+MAKE UP,유형별,네일,goods/goodsList.do?catCd=4000000027&flag=4000000045,4000000045,네일케어,4000000047
+MAKE UP,유형별,네일,goods/goodsList.do?catCd=4000000027&flag=4000000045,4000000045,네일리무버,4000000048
+MAKE UP,유형별,네일,goods/goodsList.do?catCd=4000000027&flag=4000000045,4000000045,네일소품,4000000049
+MAKE UP,유형별,화장소품,goods/goodsList.do?catCd=4000000027&flag=4000000050,4000000050,브러쉬,4000000228
+MAKE UP,유형별,화장소품,goods/goodsList.do?catCd=4000000027&flag=4000000050,4000000050,퍼프,4000000229
+MAKE UP,유형별,화장소품,goods/goodsList.do?catCd=4000000027&flag=4000000050,4000000050,화장솜/면봉,4000000230
+MAKE UP,유형별,화장소품,goods/goodsList.do?catCd=4000000027&flag=4000000050,4000000050,메이크업 소품,4000000231
+MAKE UP,유형별,화장소품,goods/goodsList.do?catCd=4000000027&flag=4000000050,4000000050,클렌징 소품,4000000232
+MAKE UP,유형별,화장소품,goods/goodsList.do?catCd=4000000027&flag=4000000050,4000000050,기타,4000000233
+MAKE UP,유형별,세트상품,goods/goodsList.do?catCd=4000000027&flag=4000000302,4000000302,세트상품,4000000303
+MAKE UP,푸드라인업,로열허니,goods/foodLineUp.do?catCd=4000000099,4000000302,0,0
+MAKE UP,푸드라인업,로즈,goods/foodLineUp.do?catCd=4000000101,4000000302,0,0
+MAKE UP,푸드라인업,마이쇼트케익,goods/foodLineUp.do?catCd=4000000104,4000000302,0,0
+MAKE UP,푸드라인업,미네랄,goods/foodLineUp.do?catCd=4000000109,4000000302,0,0
+MAKE UP,푸드라인업,비타 워터,goods/foodLineUp.do?catCd=4000000123,4000000302,0,0
+MAKE UP,푸드라인업,청포도,goods/foodLineUp.do?catCd=4000000168,4000000302,0,0
+MAKE UP,푸드라인업,초콜릿,goods/foodLineUp.do?catCd=4000000170,4000000302,0,0
+MAKE UP,푸드라인업,토마토,goods/foodLineUp.do?catCd=4000000176,4000000302,0,0
+MAKE UP,푸드라인업,풋사과,goods/foodLineUp.do?catCd=4000000191,4000000302,0,0
+MAKE UP,푸드라인업,해조,goods/foodLineUp.do?catCd=4000000195,4000000302,0,0
+BODY·HAIR,유형별,바디,goods/goodsList.do?catCd=4000000056&flag=4000000057,4000000057,바디워시/스크럽,4000000058
+BODY·HAIR,유형별,바디,goods/goodsList.do?catCd=4000000056&flag=4000000057,4000000057,바디 모이스춰라이저,4000000059
+BODY·HAIR,유형별,바디,goods/goodsList.do?catCd=4000000056&flag=4000000057,4000000057,핸드/풋케어,4000000060
+BODY·HAIR,유형별,바디,goods/goodsList.do?catCd=4000000056&flag=4000000057,4000000057,입욕제,4000000061
+BODY·HAIR,유형별,바디,goods/goodsList.do?catCd=4000000056&flag=4000000057,4000000057,샤워코롱/데오,4000000062
+BODY·HAIR,유형별,헤어,goods/goodsList.do?catCd=4000000056&flag=4000000063,4000000063,샴푸,4000000064
+BODY·HAIR,유형별,헤어,goods/goodsList.do?catCd=4000000056&flag=4000000063,4000000063,컨디셔너/트리트먼트,4000000065
+BODY·HAIR,유형별,헤어,goods/goodsList.do?catCd=4000000056&flag=4000000063,4000000063,헤어 에센스,4000000066
+BODY·HAIR,유형별,헤어,goods/goodsList.do?catCd=4000000056&flag=4000000063,4000000063,스타일링,4000000067
+BODY·HAIR,유형별,베이비,goods/goodsList.do?catCd=4000000056&flag=4000000260,4000000260,베이비,4000000261
+BODY·HAIR,유형별,세트상품,goods/goodsList.do?catCd=4000000056&flag=4000000304,4000000304,세트상품,4000000305
+BODY·HAIR,유형별,방향,goods/goodsList.do?catCd=4000000056&flag=4000001391,4000001391,향수,4000001392
+BODY·HAIR,유형별,방향,goods/goodsList.do?catCd=4000000056&flag=4000001391,4000001391,디퓨져,4000001393
+BODY·HAIR,유형별,방향,goods/goodsList.do?catCd=4000000056&flag=4000001391,4000001391,소품,4000001394
+BODY·HAIR,피부고민별,각질,goods/goodsList.do?catCd=4000000056&flag=4000000246,4000000246,0,0
+BODY·HAIR,피부고민별,기미/잡티/칙칙한안색,goods/goodsList.do?catCd=4000000056&flag=4000000247,4000000247,0,0
+BODY·HAIR,피부고민별,다크서클,goods/goodsList.do?catCd=4000000056&flag=4000000248,4000000248,0,0
+BODY·HAIR,피부고민별,모공/피지,goods/goodsList.do?catCd=4000000056&flag=4000000249,4000000249,0,0
+BODY·HAIR,피부고민별,민감,goods/goodsList.do?catCd=4000000056&flag=4000000250,4000000250,0,0
+BODY·HAIR,피부고민별,보습,goods/goodsList.do?catCd=4000000056&flag=4000000251,4000000251,0,0
+BODY·HAIR,피부고민별,수분/진정,goods/goodsList.do?catCd=4000000056&flag=4000000252,4000000252,0,0
+BODY·HAIR,피부고민별,탄력/피부노화,goods/goodsList.do?catCd=4000000056&flag=4000000253,4000000253,0,0
+BODY·HAIR,피부고민별,트러블/여드름,goods/goodsList.do?catCd=4000000056&flag=4000000254,4000000254,0,0
+BODY·HAIR,피부고민별,피부결,goods/goodsList.do?catCd=4000000056&flag=4000000255,4000000255,0,0
+BODY·HAIR,푸드라인업,굿파더,goods/foodLineUp.do?catCd=4000000299,4000000255,0,0
+BODY·HAIR,푸드라인업,그린티,goods/foodLineUp.do?catCd=4000000088,4000000255,0,0
+BODY·HAIR,푸드라인업,레몬 버베나,goods/foodLineUp.do?catCd=4000000329,4000000255,0,0
+BODY·HAIR,푸드라인업,로즈,goods/foodLineUp.do?catCd=4000000101,4000000255,0,0
+BODY·HAIR,푸드라인업,밀크,goods/foodLineUp.do?catCd=4000000111,4000000255,0,0
+BODY·HAIR,푸드라인업,시어버터,goods/foodLineUp.do?catCd=4000000138,4000000255,0,0
+BODY·HAIR,푸드라인업,아르간오일,goods/foodLineUp.do?catCd=4000000141,4000000255,0,0
+BODY·HAIR,푸드라인업,퀴노아,goods/foodLineUp.do?catCd=4000000174,4000000255,0,0
+BODY·HAIR,푸드라인업,포도씨 오일,goods/foodLineUp.do?catCd=4000000189,4000000255,0,0
+BODY·HAIR,푸드라인업,허니,goods/foodLineUp.do?catCd=4000000197,4000000255,0,0
+MEN,유형별,쉐이빙/클렌징,goods/goodsList.do?catCd=4000000068&flag=4000000069,4000000069,쉐이빙/클렌징,4000000234
+MEN,유형별,팩/마스크,goods/goodsList.do?catCd=4000000068&flag=4000000070,4000000070,팩/마스크,4000000235
+MEN,유형별,토너,goods/goodsList.do?catCd=4000000068&flag=4000000071,4000000071,토너,4000000241
+MEN,유형별,에멀전,goods/goodsList.do?catCd=4000000068&flag=4000000072,4000000072,에멀전,4000000236
+MEN,유형별,플루이드,goods/goodsList.do?catCd=4000000068&flag=4000000073,4000000073,플루이드,4000000237
+MEN,유형별,에센스/크림,goods/goodsList.do?catCd=4000000068&flag=4000000074,4000000074,에센스,4000000238
+MEN,유형별,에센스/크림,goods/goodsList.do?catCd=4000000068&flag=4000000074,4000000074,크림,4000000239
+MEN,유형별,메이크업/선케어,goods/goodsList.do?catCd=4000000068&flag=4000000075,4000000075,메이크업/선케어,4000000240
+MEN,유형별,세트상품,goods/goodsList.do?catCd=4000000068&flag=4000000306,4000000306,세트상품,4000000307
+MEN,피부고민별,각질,goods/goodsList.do?catCd=4000000068&flag=4000000246,4000000246,0,0
+MEN,피부고민별,기미/잡티/칙칙한안색,goods/goodsList.do?catCd=4000000068&flag=4000000247,4000000247,0,0
+MEN,피부고민별,다크서클,goods/goodsList.do?catCd=4000000068&flag=4000000248,4000000248,0,0
+MEN,피부고민별,모공/피지,goods/goodsList.do?catCd=4000000068&flag=4000000249,4000000249,0,0
+MEN,피부고민별,민감,goods/goodsList.do?catCd=4000000068&flag=4000000250,4000000250,0,0
+MEN,피부고민별,보습,goods/goodsList.do?catCd=4000000068&flag=4000000251,4000000251,0,0
+MEN,피부고민별,수분/진정,goods/goodsList.do?catCd=4000000068&flag=4000000252,4000000252,0,0
+MEN,피부고민별,탄력/피부노화,goods/goodsList.do?catCd=4000000068&flag=4000000253,4000000253,0,0
+MEN,피부고민별,트러블/여드름,goods/goodsList.do?catCd=4000000068&flag=4000000254,4000000254,0,0
+MEN,피부고민별,피부결,goods/goodsList.do?catCd=4000000068&flag=4000000255,4000000255,0,0
+MEN,푸드라인업,복분자,goods/foodLineUp.do?catCd=4000000116,4000000255,0,0
+MEN,푸드라인업,블랙슈가,goods/foodLineUp.do?catCd=4000000122,4000000255,0,0
+MEN,푸드라인업,수박,goods/foodLineUp.do?catCd=4000000133,4000000255,0,0
+MEN,푸드라인업,수분베리,goods/foodLineUp.do?catCd=4000000134,4000000255,0,0
+MEN,푸드라인업,잉카 오메가,goods/foodLineUp.do?catCd=4000000162,4000000255,0,0
+MEN,푸드라인업,자작나무수액,goods/foodLineUp.do?catCd=4000000164,4000000255,0,0
+MEN,푸드라인업,티트리,goods/foodLineUp.do?catCd=4000000178,4000000255,0,0
+MEN,푸드라인업,풋사과,goods/foodLineUp.do?catCd=4000000191,4000000255,0,0
