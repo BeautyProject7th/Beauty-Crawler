@@ -1,2 +1,5 @@
 .DS_Store
 .ipynb_checkpoints
+geckodriver.log
+__pycache__
+token/
