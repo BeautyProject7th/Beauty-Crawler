@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# # Youtuber_video_list
+# # Youtuber Video List
 # * video_title, video_address, video_thumbnail
 
 # In[1]:
@@ -13,18 +13,13 @@ from bs4 import BeautifulSoup
 import time
 
 
-# #### Prefix
-
 # In[2]:
 
 
-# prefix
 youtube_address = "https://www.youtube.com"
 youtuber_list_path = "../csv/youtuber_list.csv"
 youtuber_video_list_path = "../csv/youtuber_video_list.csv"
 
-
-# #### Javascript
 
 # In[3]:
 

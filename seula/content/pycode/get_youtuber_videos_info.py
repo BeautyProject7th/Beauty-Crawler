@@ -12,8 +12,6 @@ from selenium import webdriver
 import time
 
 
-# #### Prefix
-
 # In[9]:
 
 
@@ -35,8 +33,6 @@ column_list = ['youtuber_name', 'video_title', 'video_address', 'video_thumbnail
 youtuber_video_info_df = pd.DataFrame(youtuber_video_list_df, columns=column_list)
 youtuber_video_info_df.head(3)
 
-
-# #### JavaScript
 
 # In[5]:
 

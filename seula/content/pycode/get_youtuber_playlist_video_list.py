@@ -1,6 +1,8 @@
 
 # coding: utf-8
 
+# # Youtuber Playlist Video List
+
 # In[34]:
 
 
@@ -66,8 +68,6 @@ for item in playlist:
         
         playlist_video_list.append([user_name, playlist_title, playlist_url, video_title, video_address, video_thumbnail])
 
-
-# - 비공개 동영상/삭제된 동영상(플레이리스트 주소가 아닌 개인 주소)
 
 # In[41]:
 
